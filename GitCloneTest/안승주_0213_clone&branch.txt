@@ -1,0 +1,39 @@
+git 클론 작업
+
+폴더 생성
+
+폴더 위치 저장
+
+폴더 git init
+
+git clone git 주소
+
+복사 완료
+
+작업
+
+git add .
+
+git commit -m ""
+
+git push -u origin (master)
+
+-----------------------------------------------
+
+git brach 작업과정
+
+git checkout -b branch_name
+
+작업
+
+git add .
+
+git commit -m ""
+
+git push -u origin branch_name
+
+git 페이지 request 어쩌구 pull 클릭
+
+쭉쭉 가다가 merge
+
+브랜치를 마스터의 병합
